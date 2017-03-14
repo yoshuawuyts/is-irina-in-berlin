@@ -1,4 +1,4 @@
-var differenceInDays = require('date-fns/difference_in_days')
+var differenceInDays = require('date-fns/difference_in_calendar_days')
 var html = require('choo/html')
 var css = require('sheetify')
 var choo = require('choo')
