@@ -2,13 +2,13 @@
   "name": "is-irina-in-berlin",
   "version": "1.0.0",
   "description": "oi oi oi",
+  "private": true,
   "main": "index.js",
   "scripts": {
-    "build": "standard build -O",
+    "build": "bankai build -O",
     "test": "standard",
     "start": "bankai start index.js --open"
   },
-  "keywords": [],
   "author": "Yoshua Wuyts <yoshuawuyts@gmail.com>",
   "license": "MIT",
   "devDependencies": {
