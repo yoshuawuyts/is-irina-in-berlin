@@ -1,7 +1,7 @@
 {
   "name": "is-irina-in-berlin",
   "version": "1.0.0",
-  "description": "",
+  "description": "oi oi oi",
   "main": "index.js",
   "scripts": {
     "build": "standard build -O",
