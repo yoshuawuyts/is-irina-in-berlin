@@ -29,7 +29,7 @@ function mainView (state, emit) {
 }
 
 function etaStore (state, emitter) {
-  var target = new Date(2017, 4, 28, 0, 0)
+  var target = new Date(2017, 3, 28, 0, 0)
   state.eta = calc()
 
   emitter.on('DOMContentLoaded', function () {
